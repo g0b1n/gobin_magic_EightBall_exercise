@@ -1,0 +1,38 @@
+/* .EightBall {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.EightBall-circle {
+    background-color: black;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.EightBall-text {
+    color: white;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+} */
+
+.EightBall {
+    margin: 50px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
